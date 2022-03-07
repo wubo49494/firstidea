@@ -7,4 +7,6 @@ function bbb(){
     console.log('cc')
 
     console.log('bbb')
+
+    conosle.log('ccc')
 }
