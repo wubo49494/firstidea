@@ -5,4 +5,6 @@ function bbb(){
     console.log('asdsad')
 
     console.log('cc')
+
+    console.log('bbb')
 }
